@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NikCatDetailsApp</string>
+
+    <string name="main_title">Cat details</string>
+</resources>

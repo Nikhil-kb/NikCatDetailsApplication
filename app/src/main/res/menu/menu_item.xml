@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title=""
+        android:icon="@drawable/round_more_vert_24"
+        app:showAsAction="always">
+
+        <menu >
+
+            <item
+                android:id="@+id/linear_view"
+                android:title="Linear view"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/grid_view"
+                android:title="Grid view"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/view_pager"
+                android:title="View pager"
+                app:showAsAction="never"/>
+
+
+
+        </menu>
+
+    </item>
+
+</menu>
