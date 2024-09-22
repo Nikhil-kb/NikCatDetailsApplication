@@ -1,10 +1,5 @@
 This Android mobile application consumes the http://thecatapi.com/ API and includes the following components:
--> Language: Java
--> MVVM Architecture
--> Room data persistence library (for local data source)
--> Retrofit (for remote data source)
--> RxJava2 (for reactive programming)
--> Material3 design (View-based design)
+Language: Java, MVVM Architecture, Room data persistence library (for local data source), Retrofit (for remote data source), RxJava2 (for reactive programming), Material3 design (View-based design)
 
 
 1. List view for Cat Details
